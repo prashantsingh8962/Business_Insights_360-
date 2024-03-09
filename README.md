@@ -181,36 +181,36 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Overall Report
 
-![Overall Report.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif)
+![Overall Report.gif](https://github.com/prashantsingh8962/Business_Insights_360-/blob/main/Overall.gif)
 
 ## Info Page
 
-![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
+![Info.gif](https://github.com/prashantsingh8962/Business_Insights_360-/blob/main/Info.gif)
 
 ## Finance View
 
-![Finace.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
+![Finace.gif](https://github.com/prashantsingh8962/Business_Insights_360-/blob/main/Finace.gif)
 ## Sales View
 
-![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
+![Sales.gif](https://github.com/prashantsingh8962/Business_Insights_360-/blob/main/Sales.gif)
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
+![Marketing.gif](https://github.com/prashantsingh8962/Business_Insights_360-/blob/main/Marketing.gif)
 
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+![Supply chain.gif](https://github.com/prashantsingh8962/Business_Insights_360-/blob/main/supply%20chain.gif)
 
 ## Executive View
 
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
+![Executive.gif](https://github.com/prashantsingh8962/Business_Insights_360-/blob/main/Executive.gif)
 
 ## Products
 
-![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
+![Products](https://github.com/prashantsingh8962/Business_Insights_360-/blob/main/Products%20View.gif)
 
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
+you can find the full report file here : [Report](https://github.com/prashantsingh8962/Business_Insights_360-/blob/main/360.pbix)
 
 
 ## Project Outcome
